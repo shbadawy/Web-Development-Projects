@@ -1,6 +1,4 @@
 # Web-Development-Projects
-
-## Projects 
 <hr>
 <ul>
   <li> <a href="https://shbadawy.github.io/badawy-poultry/">Badawy's Poultry<a>
